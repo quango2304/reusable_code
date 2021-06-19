@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d560d7ea-50c0-47c3-8380-8cd361622c07" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/common.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +15,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
@@ -26,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/widgets" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -45,21 +55,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620972610655</updated>
+      <workItem from="1623401984726" duration="678000" />
+      <workItem from="1623809983182" duration="18000" />
+      <workItem from="1623810012333" duration="1247000" />
+      <workItem from="1623853774795" duration="75000" />
+      <workItem from="1623897136835" duration="132000" />
+      <workItem from="1624078460999" duration="621000" />
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1645" y="602" key="Github.ShareDialog" timestamp="1620972993567">
-      <screen x="0" y="25" width="3440" height="1345" />
-    </state>
-    <state x="1645" y="602" key="Github.ShareDialog/0.25.3440.1345@0.25.3440.1345" timestamp="1620972993567" />
-    <state x="1580" y="321" key="Github.UntrackedFilesDialog" timestamp="1620972999045">
-      <screen x="0" y="25" width="3440" height="1345" />
-    </state>
-    <state x="1580" y="321" key="Github.UntrackedFilesDialog/0.25.3440.1345@0.25.3440.1345" timestamp="1620972999045" />
-    <state x="1485" y="454" width="600" height="486" key="find.popup" timestamp="1621057419696">
-      <screen x="0" y="25" width="3440" height="1345" />
-    </state>
-    <state x="1485" y="454" width="600" height="486" key="find.popup/0.25.3440.1345@0.25.3440.1345" timestamp="1621057419696" />
   </component>
 </project>
