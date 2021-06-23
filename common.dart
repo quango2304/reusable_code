@@ -16,3 +16,7 @@ Future<List<String?>?> selectImages() async {
     return null;
   }
 }
+Matrix4.identity()..scale(1.0, 0.05)
+
+//remove some lib from yalm file
+sed -i.bak '/sqlite3_flutter_libs:/d' pubspec.yaml

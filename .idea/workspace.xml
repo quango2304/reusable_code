@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d560d7ea-50c0-47c3-8380-8cd361622c07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/common.dart" afterDir="false" />
+    <list default="true" id="d560d7ea-50c0-47c3-8380-8cd361622c07" name="Default Changelist" comment="add map async">
+      <change afterPath="$PROJECT_DIR$/widgets/ink_well_wrapper.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common.dart" beforeDir="false" afterPath="$PROJECT_DIR$/common.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,14 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/extensions/iterable_ex.dart" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/common.dart" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/constants/images.dart" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/widgets/ink_well_wrapper.dart" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/extensions/text_style_ex.dart" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/extensions/map_ex.dart" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1sVzaeLm9vnQPfhcIltEqnl8ljc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -60,8 +69,27 @@
       <workItem from="1623810012333" duration="1247000" />
       <workItem from="1623853774795" duration="75000" />
       <workItem from="1623897136835" duration="132000" />
-      <workItem from="1624078460999" duration="621000" />
+      <workItem from="1624078460999" duration="642000" />
+      <workItem from="1624100166485" duration="1323000" />
+      <workItem from="1624115219066" duration="1208000" />
+      <workItem from="1624183755370" duration="720000" />
+      <workItem from="1624196234963" duration="20000" />
+      <workItem from="1624196280429" duration="644000" />
+      <workItem from="1624292101495" duration="611000" />
+      <workItem from="1624417986722" duration="4000" />
     </task>
+    <task id="LOCAL-00001" summary="add map async">
+      <created>1624080990015</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624080990015</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add map async" />
+    <option name="LAST_COMMIT_MESSAGE" value="add map async" />
   </component>
 </project>
