@@ -4,15 +4,20 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d560d7ea-50c0-47c3-8380-8cd361622c07" name="Default Changelist" comment="add map async">
-      <change afterPath="$PROJECT_DIR$/widgets/ink_well_wrapper.dart" afterDir="false" />
+    <list default="true" id="d560d7ea-50c0-47c3-8380-8cd361622c07" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common.dart" beforeDir="false" afterPath="$PROJECT_DIR$/common.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,11 +35,11 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/extensions/iterable_ex.dart" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/common.dart" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/constants/images.dart" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/extensions/map_ex.dart" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/widgets/ink_well_wrapper.dart" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/extensions/text_style_ex.dart" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/extensions/map_ex.dart" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/common.dart" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/constants/images.dart" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1sVzaeLm9vnQPfhcIltEqnl8ljc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -76,7 +81,18 @@
       <workItem from="1624196234963" duration="20000" />
       <workItem from="1624196280429" duration="644000" />
       <workItem from="1624292101495" duration="611000" />
-      <workItem from="1624417986722" duration="4000" />
+      <workItem from="1624417986722" duration="28000" />
+      <workItem from="1624548948788" duration="1239000" />
+      <workItem from="1624590100947" duration="605000" />
+      <workItem from="1624978003024" duration="12000" />
+      <workItem from="1625154274896" duration="621000" />
+      <workItem from="1625240626424" duration="606000" />
+      <workItem from="1626144372070" duration="769000" />
+      <workItem from="1626145678018" duration="391000" />
+      <workItem from="1626443727383" duration="613000" />
+      <workItem from="1626579137253" duration="33000" />
+      <workItem from="1630407284103" duration="1050000" />
+      <workItem from="1630851589777" duration="607000" />
     </task>
     <task id="LOCAL-00001" summary="add map async">
       <created>1624080990015</created>
@@ -85,11 +101,27 @@
       <option name="project" value="LOCAL" />
       <updated>1624080990015</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add">
+      <created>1624418009377</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624418009377</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add draggable child">
+      <created>1626579159542</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626579159542</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add map async" />
-    <option name="LAST_COMMIT_MESSAGE" value="add map async" />
+    <MESSAGE value="add" />
+    <MESSAGE value="add draggable child" />
+    <option name="LAST_COMMIT_MESSAGE" value="add draggable child" />
   </component>
 </project>
